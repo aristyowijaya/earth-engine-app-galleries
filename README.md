@@ -1,15 +1,11 @@
----
-title: Earth Engine App Gallery - Inventory
-author: Philipp
-date: '2019-04-14'
----
+# Earth Engine App Gallery - Inventory
 
-# Source
+### Source
 
 
 * USERNAME from [https://earthengine.googlesource.com/users](https://earthengine.googlesource.com/users)
 
-* **https****//:** **+** **USERNAME** **+** **users.earthengine.app** web addresses extracted with RCurl.
+* **https//: + USERNAME + users.earthengine.app** web addresses extracted with RCurl.
 
 
 ### Earth Engine App Gallery List
